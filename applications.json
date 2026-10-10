@@ -11422,7 +11422,7 @@
         },
         {
             "title": "inlaut",
-            "short_description": "Menu bar dictation tuned for German that runs a Parakeet model fully on-device and types at the cursor.",
+            "short_description": "Menu bar dictation for German and English that runs a Parakeet model fully on-device and types at the cursor.",
             "categories": [
                 "menubar",
                 "productivity"
